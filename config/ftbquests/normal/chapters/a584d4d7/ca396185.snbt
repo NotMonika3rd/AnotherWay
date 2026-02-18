@@ -1,0 +1,16 @@
+{
+	x: -8.0d,
+	y: -6.0d,
+	tasks: [{
+		uid: "035146e0",
+		type: "item",
+		items: [{
+			item: "cyberware:scanner"
+		}]
+	}],
+	rewards: [{
+		uid: "45c96894",
+		type: "item",
+		item: "lootbags:itemlootbag 1 2"
+	}]
+}

@@ -1,0 +1,33 @@
+{
+	x: -6.0d,
+	y: -4.5d,
+	dependencies: [
+		"8159022f"
+	],
+	tasks: [{
+		uid: "a855a12a",
+		type: "item",
+		items: [{
+			item: "fluxnetworks:fluxcontroller"
+		}]
+	},
+	{
+		uid: "3d2f9f07",
+		type: "item",
+		items: [{
+			item: "fluxnetworks:fluxplug"
+		}]
+	},
+	{
+		uid: "72bb3c4f",
+		type: "item",
+		items: [{
+			item: "fluxnetworks:fluxpoint"
+		}]
+	}],
+	rewards: [{
+		uid: "a6b637ee",
+		type: "item",
+		item: "fluxnetworks:fluxconfigurator"
+	}]
+}

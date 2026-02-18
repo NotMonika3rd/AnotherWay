@@ -1,0 +1,187 @@
+{
+	x: -15.0d,
+	y: -7.0d,
+	dependencies: [
+		"ab2f502b"
+	],
+	tasks: [{
+		uid: "e9a5792a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					AccentColor: -10342886,
+					SortType: 0b,
+					UUIDMost: 277885331431114626L,
+					MainColor: -3382982,
+					UUIDLeast: -4765126097620898943L,
+					UpgradeSlots: {
+						Items: []
+					},
+					MemoryRespectNBT: [B;
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b
+					],
+					BackpackInventory: {
+						Items: []
+					},
+					BackpackInventorySize: 27,
+					UpgradeSlotsSize: 1,
+					MemoryItems: {
+						Items: []
+					},
+					LockedSlots: [B;
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b
+					]
+				},
+				"retro_sophisticated_backpacks:backpack_capability": {
+					AccentColor: -10342886,
+					SortType: 0b,
+					UUIDMost: 6192217678729529552L,
+					MainColor: -3382982,
+					UUIDLeast: -6301047263065094198L,
+					UpgradeSlots: {
+						Items: []
+					},
+					MemoryRespectNBT: [B;
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b
+					],
+					BackpackInventory: {
+						Items: []
+					},
+					BackpackInventorySize: 27,
+					UpgradeSlotsSize: 1,
+					MemoryItems: {
+						Items: []
+					},
+					LockedSlots: [B;
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b
+					]
+				}
+			},
+			id: "retro_sophisticated_backpacks:backpack_leather"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8993376f",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				Parent: {
+					CraftingDest: 1b,
+					Matrix: {
+						Size: 10,
+						Items: []
+					},
+					TabState: 0b
+				}
+			},
+			id: "retro_sophisticated_backpacks:crafting_upgrade"
+		}
+	}]
+}

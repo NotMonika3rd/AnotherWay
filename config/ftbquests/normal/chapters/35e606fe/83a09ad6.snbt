@@ -1,0 +1,26 @@
+{
+	x: -6.0d,
+	y: 0.5d,
+	dependencies: [
+		"eebf8653"
+	],
+	tasks: [{
+		uid: "f55a6a22",
+		type: "item",
+		items: [{
+			item: "cyberware:surgery"
+		}]
+	},
+	{
+		uid: "09e81acf",
+		type: "item",
+		items: [{
+			item: "cyberware:surgery_chamber"
+		}]
+	}],
+	rewards: [{
+		uid: "ab399c98",
+		type: "item",
+		item: "lootbags:itemlootbag 1 1"
+	}]
+}

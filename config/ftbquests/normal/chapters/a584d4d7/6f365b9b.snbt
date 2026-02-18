@@ -1,0 +1,16 @@
+{
+	x: -11.5d,
+	y: -6.0d,
+	tasks: [{
+		uid: "4272ce57",
+		type: "item",
+		items: [{
+			item: "cyberware:engineering_table"
+		}]
+	}],
+	rewards: [{
+		uid: "9346cf51",
+		type: "item",
+		item: "lootbags:itemlootbag 1 2"
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: -12.0d,
+	y: -2.0d,
+	dependencies: [
+		"ab2f502b"
+	],
+	tasks: [{
+		uid: "4883f447",
+		type: "item",
+		items: [{
+			item: "minecraft:furnace"
+		}]
+	}],
+	rewards: [{
+		uid: "7ff8f5f6",
+		type: "item",
+		item: "lootbags:itemlootbag"
+	}]
+}

@@ -1,0 +1,7 @@
+{
+	title: "血肉苦弱，机械飞升",
+	icon: "cyberware:cybereyes",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

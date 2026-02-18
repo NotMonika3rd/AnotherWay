@@ -1,0 +1,22 @@
+{
+	x: -9.0d,
+	y: -4.5d,
+	text: [
+		"这里不是终末地，所以你并不需要拉电线"
+	],
+	dependencies: [
+		"9992daf6"
+	],
+	tasks: [{
+		uid: "5aff6bd2",
+		type: "item",
+		items: [{
+			item: "fluxnetworks:fluxcore"
+		}]
+	}],
+	rewards: [{
+		uid: "40c9fecd",
+		type: "item",
+		item: "lootbags:itemlootbag 1 1"
+	}]
+}

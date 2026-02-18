@@ -1,0 +1,37 @@
+{
+	x: -9.0d,
+	y: 0.5d,
+	text: [
+		"前期的发电机"
+	],
+	dependencies: [
+		"4d3878d4",
+		"9992daf6"
+	],
+	tasks: [{
+		uid: "583e051e",
+		type: "item",
+		items: [{
+			item: "deepresonance:generator_controller"
+		}]
+	},
+	{
+		uid: "23999de5",
+		type: "item",
+		items: [{
+			item: "deepresonance:generator"
+		}]
+	},
+	{
+		uid: "b28fbabb",
+		type: "item",
+		items: [{
+			item: "deepresonance:energy_collector"
+		}]
+	}],
+	rewards: [{
+		uid: "c3078375",
+		type: "item",
+		item: "bountifulbaubles:trinketapple"
+	}]
+}

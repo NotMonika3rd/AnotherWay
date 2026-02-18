@@ -1,0 +1,12 @@
+crash-reports/
+saves/
+cache/
+local/
+logs/
+natives*/
+saves/
+usercache.json
+usernamecache.json
+resourcepacks/Minecraft-Mod-Language-Modpack.zip
+options.txt
+AnotherWay.jar

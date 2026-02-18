@@ -1,0 +1,19 @@
+{
+	x: -12.0d,
+	y: -7.0d,
+	text: [
+		"没了这个你什么都干不成，不是吗？"
+	],
+	tasks: [{
+		uid: "26c7f655",
+		type: "item",
+		items: [{
+			item: "minecraft:crafting_table"
+		}]
+	}],
+	rewards: [{
+		uid: "4cda4f59",
+		type: "item",
+		item: "lootbags:itemlootbag"
+	}]
+}

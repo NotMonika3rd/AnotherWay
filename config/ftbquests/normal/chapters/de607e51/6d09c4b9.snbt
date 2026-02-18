@@ -1,0 +1,22 @@
+{
+	x: -1.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "92bf0a7b",
+		type: "item",
+		items: [{
+			item: "elementalend:earth_eye"
+		}]
+	}],
+	rewards: [{
+		uid: "ba124b2b",
+		type: "item",
+		item: "minecraft:ender_eye",
+		count: 4
+	},
+	{
+		uid: "b930d857",
+		type: "item",
+		item: "lootbags:itemlootbag 1 3"
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	x: -6.0d,
+	y: -2.0d,
+	dependencies: [
+		"9992daf6"
+	],
+	tasks: [{
+		uid: "9d8ae116",
+		type: "item",
+		items: [{
+			id: "calculator:calculator",
+			tag: {
+				inv: [],
+				Energy: 1000L,
+				invsize: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "cc641bbe",
+		type: "item",
+		item: "lootbags:itemlootbag 1 1"
+	}]
+}

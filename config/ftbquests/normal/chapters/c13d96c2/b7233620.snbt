@@ -1,0 +1,23 @@
+{
+	title: "关于tetra",
+	x: -8.5d,
+	y: -5.0d,
+	text: [
+		"低版本的tetra和高版本不太一样"
+	],
+	tasks: [{
+		uid: "cd7516b8",
+		type: "item",
+		items: [{
+			item: "tetra:journal"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "530d39fc",
+		type: "item",
+		item: "tetra:geode",
+		count: 16
+	}]
+}
