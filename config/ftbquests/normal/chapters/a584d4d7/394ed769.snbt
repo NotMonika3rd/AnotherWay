@@ -1,0 +1,36 @@
+{
+	title: "充充爆",
+	icon: "cyberware:creative_battery",
+	x: -9.0d,
+	y: -2.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "33909687",
+		type: "forge_energy",
+		value: 10000000L
+	},
+	{
+		uid: "833d1120",
+		type: "item",
+		items: [{
+			item: "cyberware:dense_battery"
+		}],
+		count: 64L,
+		consume_items: true
+	},
+	{
+		uid: "3176a453",
+		type: "item",
+		items: [{
+			item: "tetra:magmatic_cell"
+		}],
+		count: 4L,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a6a9e5f7",
+		type: "item",
+		item: "cyberware:creative_battery"
+	}]
+}

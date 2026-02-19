@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: -6.0d,
+	dependencies: [
+		"e84ca4a3"
+	],
+	tasks: [{
+		uid: "cba31a36",
+		type: "item",
+		items: [{
+			item: "calculator:dynamiccalculator"
+		}]
+	}]
+}

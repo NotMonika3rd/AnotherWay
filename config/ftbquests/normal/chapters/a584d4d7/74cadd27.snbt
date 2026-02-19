@@ -1,0 +1,17 @@
+{
+	x: 1.0d,
+	y: -2.5d,
+	dependencies: [
+		"a4854f5b"
+	],
+	tasks: [{
+		uid: "4c84efc0",
+		type: "item",
+		items: [{
+			id: "calculator:scientificcalculator",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

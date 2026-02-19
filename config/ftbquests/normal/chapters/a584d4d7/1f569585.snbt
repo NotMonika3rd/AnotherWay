@@ -1,0 +1,11 @@
+{
+	x: -11.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "640a9519",
+		type: "item",
+		items: [{
+			item: "cyberware:lower_organs_upgrades 1 2"
+		}]
+	}]
+}

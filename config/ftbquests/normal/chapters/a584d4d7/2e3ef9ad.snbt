@@ -1,0 +1,11 @@
+{
+	x: -14.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "c1abb42a",
+		type: "item",
+		items: [{
+			item: "cyberware:charger"
+		}]
+	}]
+}

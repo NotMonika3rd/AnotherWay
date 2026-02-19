@@ -1,0 +1,19 @@
+{
+	x: -5.0d,
+	y: -6.0d,
+	tasks: [{
+		uid: "0160c272",
+		type: "item",
+		items: [{
+			id: "calculator:calculator",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "dee598a8",
+		type: "item",
+		item: "lootbags:itemlootbag"
+	}]
+}

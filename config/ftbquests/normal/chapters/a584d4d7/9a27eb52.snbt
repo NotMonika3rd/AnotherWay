@@ -1,0 +1,17 @@
+{
+	x: 3.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "a1cc2109",
+		type: "item",
+		items: [{
+			item: "rewired:powerbar"
+		}]
+	}],
+	rewards: [{
+		uid: "c016c0df",
+		type: "item",
+		item: "rewired:powerbar",
+		count: 64
+	}]
+}

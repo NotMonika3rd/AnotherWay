@@ -1,0 +1,18 @@
+{
+	x: -14.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "8866f053",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					amount: 1600000
+				}
+			},
+			id: "bountifulbaubles:ringflywheel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 6.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "430e033e",
+		type: "item",
+		items: [{
+			item: "rewired:energydrink"
+		}]
+	}],
+	rewards: [{
+		uid: "dbc3ec06",
+		type: "item",
+		item: "rewired:energydrink",
+		count: 64
+	}]
+}

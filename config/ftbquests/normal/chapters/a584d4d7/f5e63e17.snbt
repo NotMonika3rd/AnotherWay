@@ -1,0 +1,14 @@
+{
+	x: 1.0d,
+	y: -6.0d,
+	dependencies: [
+		"a4854f5b"
+	],
+	tasks: [{
+		uid: "1d58db57",
+		type: "item",
+		items: [{
+			item: "calculator:algorithmseparator"
+		}]
+	}]
+}

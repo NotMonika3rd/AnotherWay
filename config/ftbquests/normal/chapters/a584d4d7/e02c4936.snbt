@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: -9.5d,
+	dependencies: [
+		"e84ca4a3"
+	],
+	tasks: [{
+		uid: "2ae80adc",
+		type: "item",
+		items: [{
+			item: "calculator:conductormast"
+		}]
+	}]
+}

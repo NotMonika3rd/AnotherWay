@@ -1,0 +1,11 @@
+{
+	x: 1.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "b42d9f3a",
+		type: "item",
+		items: [{
+			item: "cyberware:heart_upgrades 1 3"
+		}]
+	}]
+}

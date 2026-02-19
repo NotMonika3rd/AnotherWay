@@ -1,0 +1,21 @@
+{
+	x: -11.5d,
+	y: -2.0d,
+	dependencies: [
+		"f7c0fd7f"
+	],
+	tasks: [{
+		uid: "10a4cfd1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					amount: 0
+				}
+			},
+			id: "bountifulbaubles:ringflywheeladvanced"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

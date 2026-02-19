@@ -1,0 +1,14 @@
+{
+	x: 1.0d,
+	y: -9.5d,
+	dependencies: [
+		"fb0e3804"
+	],
+	tasks: [{
+		uid: "40ae6ef3",
+		type: "item",
+		items: [{
+			item: "calculator:advancedpowercube"
+		}]
+	}]
+}
