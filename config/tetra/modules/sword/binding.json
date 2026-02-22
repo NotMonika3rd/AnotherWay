@@ -52,5 +52,15 @@
             "textureX": 80,
             "textureY": 16
         }
+    },
+    {
+        "key": "sword_binding/nerves",
+        "durability": 12,
+        "attackSpeed": 0.3,
+        "glyph": {
+            "tint": "52676F",
+            "textureX": 88,
+            "textureY": 16
+        }
     }
 ]

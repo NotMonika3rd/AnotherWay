@@ -1,0 +1,76 @@
+{
+	title: "模板物品",
+	x: -6.0d,
+	y: -0.5d,
+	text: [
+		"其它工具的合成表都被移除了"
+	],
+	or_tasks: 1b,
+	tasks: [{
+		uid: "adc346b5",
+		type: "item",
+		items: [{
+			tag: {
+				EXPERIENCE: 4,
+				RARITY: 1,
+				EA_ENABLED: 1b
+			},
+			id: "minecraft:wooden_sword"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "0f09f3ab",
+		type: "item",
+		items: [{
+			item: "minecraft:wooden_pickaxe"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "d4ded7f8",
+		type: "item",
+		items: [{
+			tag: {
+				RARITY: 1,
+				EA_ENABLED: 1b
+			},
+			id: "minecraft:wooden_axe"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "103cc878",
+		type: "item",
+		items: [{
+			tag: {
+				EXPERIENCE: 3,
+				RARITY: 2,
+				EA_ENABLED: 1b
+			},
+			id: "minecraft:wooden_hoe"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e57934dd",
+		type: "item",
+		item: {
+			tag: {
+				"duplex/basic_hammer_right_material": "basic_hammer/log",
+				RARITY: 1,
+				"duplex/handle": "duplex/basic_handle",
+				"duplex/basic_handle_material": "basic_handle/stick",
+				"duplex/head_left": "duplex/basic_hammer_left",
+				EA_ENABLED: 1b,
+				"duplex/basic_hammer_left_material": "basic_hammer/log",
+				"duplex/head_right": "duplex/basic_hammer_right"
+			},
+			id: "tetra:duplex_tool_modular"
+		}
+	}]
+}

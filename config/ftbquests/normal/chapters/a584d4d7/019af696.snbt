@@ -5,10 +5,10 @@
 		uid: "0160c272",
 		type: "item",
 		items: [{
-			id: "calculator:calculator",
-			tag: {}
+			tag: {},
+			id: "calculator:calculator"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}],
 	rewards: [{

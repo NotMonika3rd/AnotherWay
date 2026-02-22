@@ -404,5 +404,19 @@
             "textureX": 72,
             "textureY": 16
         }
+    },
+    {
+        "key": "reinforced_fuller/scale",
+        "durability": 996,
+        "integrity": 3,
+        "attackSpeed": -0.6,
+        "effects": {
+            "unbreaking": 2
+        },
+        "glyph": {
+            "tint": "000000",
+            "textureX": 72,
+            "textureY": 16
+        }
     }
 ]

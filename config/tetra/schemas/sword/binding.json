@@ -58,6 +58,16 @@
                 },
                 "moduleKey": "sword/binding",
                 "moduleVariant": "sword_binding/bolt"
+            },{
+                "material": {
+                    "item": "cyberware:component",
+                    "data": 7
+                },
+                "requiredCapabilities": {
+                    "cut": 2
+                },
+                "moduleKey": "sword/binding",
+                "moduleVariant": "sword_binding/nerves"
             }
         ]
     }

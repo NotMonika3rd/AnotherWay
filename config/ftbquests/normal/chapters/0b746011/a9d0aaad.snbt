@@ -1,0 +1,18 @@
+{
+	x: -9.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "ed43129d",
+		type: "item",
+		items: [{
+			item: "tetra:journal"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a82dd839",
+		type: "item",
+		item: "lootbags:itemlootbag"
+	}]
+}

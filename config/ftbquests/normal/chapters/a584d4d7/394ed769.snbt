@@ -3,7 +3,7 @@
 	icon: "cyberware:creative_battery",
 	x: -9.0d,
 	y: -2.0d,
-	can_repeat: true,
+	can_repeat: 1b,
 	tasks: [{
 		uid: "33909687",
 		type: "forge_energy",
@@ -16,7 +16,7 @@
 			item: "cyberware:dense_battery"
 		}],
 		count: 64L,
-		consume_items: true
+		consume_items: 1b
 	},
 	{
 		uid: "3176a453",
@@ -25,7 +25,7 @@
 			item: "tetra:magmatic_cell"
 		}],
 		count: 4L,
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}],
 	rewards: [{

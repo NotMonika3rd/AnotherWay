@@ -1,0 +1,14 @@
+{
+	x: -2.5d,
+	y: -14.0d,
+	dependencies: [
+		"1195b0b6"
+	],
+	tasks: [{
+		uid: "6443c52b",
+		type: "item",
+		items: [{
+			item: "simplegenerators:culinary_upgradable"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: -8.5d,
+	y: -16.0d,
+	dependencies: [
+		"d5d08742"
+	],
+	tasks: [{
+		uid: "84e35638",
+		type: "item",
+		items: [{
+			item: "simplegenerators:nether_upgradable"
+		}]
+	}]
+}

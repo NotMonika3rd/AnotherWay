@@ -351,6 +351,16 @@
                 },
                 "moduleKey": "sword/reinforced_fuller",
                 "moduleVariant": "reinforced_fuller/stone"
+            },
+            {
+                "material": {
+                    "item": "bountifulbaubles:enderdragonscale"
+                },
+                "requiredCapabilities": {
+                    "axe": 2
+                },
+                "moduleKey": "sword/reinforced_fuller",
+                "moduleVariant": "reinforced_fuller/scale"
             }
         ]
     }

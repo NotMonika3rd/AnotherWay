@@ -1,0 +1,11 @@
+{
+	x: -11.5d,
+	y: -16.0d,
+	tasks: [{
+		uid: "6846f89c",
+		type: "item",
+		items: [{
+			item: "simplegenerators:nether_simple"
+		}]
+	}]
+}

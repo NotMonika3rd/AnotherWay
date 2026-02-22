@@ -1,0 +1,14 @@
+{
+	x: -2.5d,
+	y: -16.0d,
+	dependencies: [
+		"a2e2b14a"
+	],
+	tasks: [{
+		uid: "22b19070",
+		type: "item",
+		items: [{
+			item: "simplegenerators:ender_upgradable"
+		}]
+	}]
+}

@@ -8,14 +8,14 @@
 		uid: "9d8ae116",
 		type: "item",
 		items: [{
-			id: "calculator:calculator",
 			tag: {
 				inv: [],
-				Energy: 1000L,
-				invsize: 0
-			}
+				invsize: 0,
+				Energy: 1000L
+			},
+			id: "calculator:calculator"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}],
 	rewards: [{

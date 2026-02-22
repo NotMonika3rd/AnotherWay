@@ -1,0 +1,11 @@
+{
+	x: 0.5d,
+	y: -16.0d,
+	tasks: [{
+		uid: "a2f9626b",
+		type: "item",
+		items: [{
+			item: "simplegenerators:soul_simple"
+		}]
+	}]
+}

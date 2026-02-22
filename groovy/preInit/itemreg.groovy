@@ -1,0 +1,1 @@
+content.registerItem("shengjiquan", new Item())

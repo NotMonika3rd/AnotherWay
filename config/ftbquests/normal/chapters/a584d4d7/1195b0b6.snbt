@@ -1,0 +1,11 @@
+{
+	x: -5.5d,
+	y: -14.0d,
+	tasks: [{
+		uid: "8581b49a",
+		type: "item",
+		items: [{
+			item: "simplegenerators:culinary_simple"
+		}]
+	}]
+}

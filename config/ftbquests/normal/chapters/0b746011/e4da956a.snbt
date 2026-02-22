@@ -1,0 +1,20 @@
+{
+	x: -3.0d,
+	y: -0.5d,
+	text: [
+		"下界之星可以增加20%成功几率",
+		"升级券可以增加100%成功几率，在部分任务中可获得"
+	],
+	tasks: [{
+		uid: "d04b4481",
+		type: "item",
+		items: [{
+			item: "upgradedarmaments:upgrade_station"
+		}]
+	}],
+	rewards: [{
+		uid: "75dae1ad",
+		type: "item",
+		item: "placeholdername:shengjiquan"
+	}]
+}

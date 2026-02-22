@@ -8,21 +8,21 @@
 		uid: "504b2ecf",
 		type: "item",
 		items: [{
-			id: "calculator:flawlesscalculator",
 			tag: {
-				0: {},
-				slot4: "Energy Module",
-				1: {},
 				slot3: "Storage",
-				2: {},
+				slot4: "Energy Module",
 				slot2: "Crafting",
-				3: {},
+				0: {},
 				slot1: "Dynamic",
-				4: {},
-				slot0: "Flawless"
-			}
+				1: {},
+				slot0: "Flawless",
+				2: {},
+				3: {},
+				4: {}
+			},
+			id: "calculator:flawlesscalculator"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

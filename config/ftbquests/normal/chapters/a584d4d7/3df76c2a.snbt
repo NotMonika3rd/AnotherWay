@@ -1,0 +1,14 @@
+{
+	x: 3.5d,
+	y: -16.0d,
+	dependencies: [
+		"740616fc"
+	],
+	tasks: [{
+		uid: "fffdcc8c",
+		type: "item",
+		items: [{
+			item: "simplegenerators:soul_upgradable"
+		}]
+	}]
+}

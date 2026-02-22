@@ -10,14 +10,6 @@
 		items: [{
 			ForgeCaps: {
 				Parent: {
-					AccentColor: -10342886,
-					SortType: 0b,
-					UUIDMost: 277885331431114626L,
-					MainColor: -3382982,
-					UUIDLeast: -4765126097620898943L,
-					UpgradeSlots: {
-						Items: []
-					},
 					MemoryRespectNBT: [B;
 						0b,
 						0b,
@@ -47,14 +39,6 @@
 						0b,
 						0b
 					],
-					BackpackInventory: {
-						Items: []
-					},
-					BackpackInventorySize: 27,
-					UpgradeSlotsSize: 1,
-					MemoryItems: {
-						Items: []
-					},
 					LockedSlots: [B;
 						0b,
 						0b,
@@ -83,17 +67,25 @@
 						0b,
 						0b,
 						0b
-					]
+					],
+					AccentColor: -10342886,
+					UUIDMost: 277885331431114626L,
+					UpgradeSlotsSize: 1,
+					MemoryItems: {
+						Items: []
+					},
+					BackpackInventory: {
+						Items: []
+					},
+					MainColor: -3382982,
+					SortType: 0b,
+					BackpackInventorySize: 27,
+					UpgradeSlots: {
+						Items: []
+					},
+					UUIDLeast: -4765126097620898943L
 				},
 				"retro_sophisticated_backpacks:backpack_capability": {
-					AccentColor: -10342886,
-					SortType: 0b,
-					UUIDMost: 6192217678729529552L,
-					MainColor: -3382982,
-					UUIDLeast: -6301047263065094198L,
-					UpgradeSlots: {
-						Items: []
-					},
 					MemoryRespectNBT: [B;
 						0b,
 						0b,
@@ -123,14 +115,6 @@
 						0b,
 						0b
 					],
-					BackpackInventory: {
-						Items: []
-					},
-					BackpackInventorySize: 27,
-					UpgradeSlotsSize: 1,
-					MemoryItems: {
-						Items: []
-					},
 					LockedSlots: [B;
 						0b,
 						0b,
@@ -159,12 +143,28 @@
 						0b,
 						0b,
 						0b
-					]
+					],
+					AccentColor: -10342886,
+					UUIDMost: 6192217678729529552L,
+					UpgradeSlotsSize: 1,
+					MemoryItems: {
+						Items: []
+					},
+					BackpackInventory: {
+						Items: []
+					},
+					MainColor: -3382982,
+					SortType: 0b,
+					BackpackInventorySize: 27,
+					UpgradeSlots: {
+						Items: []
+					},
+					UUIDLeast: -6301047263065094198L
 				}
 			},
 			id: "retro_sophisticated_backpacks:backpack_leather"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}],
 	rewards: [{
@@ -175,8 +175,8 @@
 				Parent: {
 					CraftingDest: 1b,
 					Matrix: {
-						Size: 10,
-						Items: []
+						Items: [],
+						Size: 10
 					},
 					TabState: 0b
 				}

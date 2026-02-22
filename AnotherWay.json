@@ -17,7 +17,7 @@
   },
   "libraries": [
     {
-      "name": "com.cleanroommc:cleanroom:0.4.3-alpha",
+      "name": "com.cleanroommc:cleanroom:0.4.4-alpha",
       "downloads": {}
     },
     {
@@ -175,13 +175,13 @@
       }
     },
     {
-      "name": "top.outlands:foundation:0.18.4",
+      "name": "top.outlands:foundation:0.18.5",
       "downloads": {
         "artifact": {
-          "path": "top/outlands/foundation/0.18.4/foundation-0.18.4.jar",
-          "url": "https://repo.cleanroommc.com/releases/top/outlands/foundation/0.18.4/foundation-0.18.4.jar",
-          "sha1": "13f605d851a730035b922f97d62f09a48244f04f",
-          "size": 56094
+          "path": "top/outlands/foundation/0.18.5/foundation-0.18.5.jar",
+          "url": "https://repo.cleanroommc.com/releases/top/outlands/foundation/0.18.5/foundation-0.18.5.jar",
+          "sha1": "1eff77a2c661b8a01708a515656eac9200d1b8bf",
+          "size": 55961
         }
       }
     },
@@ -2422,8 +2422,8 @@
   },
   "logging": {},
   "type": "release",
-  "time": "2026-02-13T13:16:02+08:00",
-  "releaseTime": "2026-02-13T13:16:02+08:00",
+  "time": "2026-02-19T12:58:39+08:00",
+  "releaseTime": "2026-02-19T12:58:39+08:00",
   "minimumLauncherVersion": 18,
   "root": true,
   "patches": [
@@ -3098,14 +3098,14 @@
     },
     {
       "id": "cleanroom",
-      "version": "0.4.3-alpha",
+      "version": "0.4.4-alpha",
       "priority": 30000,
       "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --tweakClass net.minecraftforge.fml.common.launcher.FMLTweaker --versionType Forge",
       "mainClass": "top.outlands.foundation.boot.Foundation",
       "inheritsFrom": "1.12.2",
       "libraries": [
         {
-          "name": "com.cleanroommc:cleanroom:0.4.3-alpha",
+          "name": "com.cleanroommc:cleanroom:0.4.4-alpha",
           "downloads": {}
         },
         {
@@ -3263,13 +3263,13 @@
           }
         },
         {
-          "name": "top.outlands:foundation:0.18.4",
+          "name": "top.outlands:foundation:0.18.5",
           "downloads": {
             "artifact": {
-              "path": "top/outlands/foundation/0.18.4/foundation-0.18.4.jar",
-              "url": "https://repo.cleanroommc.com/releases/top/outlands/foundation/0.18.4/foundation-0.18.4.jar",
-              "sha1": "13f605d851a730035b922f97d62f09a48244f04f",
-              "size": 56094
+              "path": "top/outlands/foundation/0.18.5/foundation-0.18.5.jar",
+              "url": "https://repo.cleanroommc.com/releases/top/outlands/foundation/0.18.5/foundation-0.18.5.jar",
+              "sha1": "1eff77a2c661b8a01708a515656eac9200d1b8bf",
+              "size": 55961
             }
           }
         },
@@ -5044,8 +5044,8 @@
       ],
       "logging": {},
       "type": "release",
-      "time": "2026-02-13T13:16:02+08:00",
-      "releaseTime": "2026-02-13T13:16:02+08:00"
+      "time": "2026-02-19T12:58:39+08:00",
+      "releaseTime": "2026-02-19T12:58:39+08:00"
     }
   ]
 }
